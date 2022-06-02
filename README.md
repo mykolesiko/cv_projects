@@ -3,7 +3,7 @@ https://www.kaggle.com/competitions/made-cv-2021-contest-01-facial-landmarks/ove
 EDA notebook[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mykolesiko/cv_projects/blob/master/face_landmarks_recognition/face_landmarks_eda_notebook.ipynb)
 
 License Plate Recognition   
-https://www.kaggle.com/competitions/made-cv-2021-contest-02-license-plate-recognition   (69/104)   
+https://www.kaggle.com/competitions/made-cv-2021-contest-02-license-plate-recognition     
 EDA notebook[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MwX6zWsQ5h4HKM6gGndfJbrSw1ueL3q1?usp=sharing)
 
 Wood Classification   
